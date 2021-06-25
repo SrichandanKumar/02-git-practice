@@ -1,0 +1,4 @@
+class TimeUtils{
+
+LocalTime t=LocalTime.now();
+}
